@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yabafre
 - 👀 I’m interested in new technologies, Manga and Music
-- 🌱 I’m currently learning Developper Fullstack
+- 🌱 I’m Developper Fullstack
 - 💞️ I’m looking to collaborate on Startups, the fashion world and with campanies abroad
 - 📫 How to reach me fred79272@gmail.com
 
