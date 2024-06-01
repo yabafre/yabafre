@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frederic-yaba-322597185) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/frederic-y-322597185) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yabafre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
