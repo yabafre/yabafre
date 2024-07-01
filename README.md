@@ -8,8 +8,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yabafre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yabafre&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yabafre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://raw.githubusercontent.com/yabafre/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yabafre&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
