@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @yabafre<br>👀 I’m interested in new technologies, Manga and Music<br>🌱 I’m Developper Fullstack<br>💞️ I’m looking to collaborate on Startups, the fashion world and with campanies abroad<br>📫 How to reach me fred79272@gmail.com
+👋 Hi, I’m @yabafre<br>👀 I’m interested in new technologies, Travel, Pictures, Vidéos, Manga and Music<br>🌱 I’m Developper Fullstack<br>💞️ I’m looking to collaborate on Startups, the fashion world and with campanies abroad<br>📫 How to reach me fred79272@gmail.com
 
 
 ## 🌐 Socials:
